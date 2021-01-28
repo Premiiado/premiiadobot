@@ -9,7 +9,7 @@ import requests
 from colorama import Fore, init
 
 intro = """
-ＰＲＥＭＩＡＤＯ ＳＹＳＴＥＭ
+ＰＲＥＭＩＩＡＤＯ ＳＹＳＴＥＭ
 https://youtube.com/Premiiado
 """
 
